@@ -21,7 +21,7 @@ O jogo termina quando o personagem colide com um obstáculo invisivel, que deter
 O jogador pode reiniciar o jogo voltando e colidindo com um dos obstaculos
 
 # Creditos:
-Jogo produzino por Igor França Cintra e Pietro Gonçalves
+Jogo produzido por Igor França Cintra e Pietro Gonçalves
 igorfrancacintra2@gmail.com
 pietrogf180@gmail.com
 
