@@ -1,4 +1,4 @@
-# Jogo de Chegar ao Topo
+# Jogo "To the top"
 Este é um jogo desenvolvido na Unity onde o objetivo é chegar ao topo desviando de obstáculos.
 
 # Linguagens Utilizadas
